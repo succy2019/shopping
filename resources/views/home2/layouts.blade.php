@@ -245,10 +245,10 @@ Click the help icon above to learn more.
 
 	<div class="site-branding col-xs-6 col-sm-6 col-md-6 col-lg-2">
 		
-<a href="https://yarnoverng.com" class="logo">
+{{-- <a href="https://yarnoverng.com" class="logo">
 			<img src="https://yarnoverng.com/wp-content/uploads/2022/08/yarnlogo.png" alt="Debscouture Crochet" class="logo-dark" height="100">
 		<img src="https://yarnoverng.com/wp-content/uploads/2022/08/yarnlogo.png" alt="Debscouture Crochet" class="logo-light" height="100">
-	</a>
+	</a> --}}
 
 	<h1 class="site-title">
 		<a href="https://yarnoverng.com/" rel="home">Debscouture Crochet</a>
